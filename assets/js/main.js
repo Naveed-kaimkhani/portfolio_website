@@ -115,3 +115,6 @@ sections.forEach(current =>{
 }
 
 window.addEventListener('scroll', scrollActive)
+function navigateToLink() {
+  window.location.href = 'https://drive.google.com/drive/folders/1AbkuSoszi4kqiFncnJumqRehV0EPkDkG?usp=sharing';  // Replace with your desired link
+}
